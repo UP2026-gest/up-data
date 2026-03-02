@@ -1,1 +1,36 @@
-{}
+{
+  "version": 2,
+  "updatedAt": "2026-03-02T18:11:10.094Z",
+  "topics": [
+    {
+      "id": "amministrazione",
+      "name": "Amministrazione"
+    },
+    {
+      "id": "commerciale",
+      "name": "Commerciale"
+    },
+    {
+      "id": "didattica",
+      "name": "Didattica"
+    },
+    {
+      "id": "decisionale",
+      "name": "Decisionale"
+    },
+    {
+      "id": "evento",
+      "name": "Evento"
+    },
+    {
+      "id": "hr",
+      "name": "HR"
+    },
+    {
+      "id": "altro",
+      "name": "Altro"
+    }
+  ],
+  "meetings": [],
+  "meta": {}
+}
