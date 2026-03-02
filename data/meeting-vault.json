@@ -1,7 +1,11 @@
 {
-  "version": 2,
-  "updatedAt": "2026-03-02T18:11:10.094Z",
+  "version": 1,
+  "updatedAt": "2026-03-02T18:12:23.870Z",
   "topics": [
+    {
+      "id": "altro",
+      "name": "Altro"
+    },
     {
       "id": "amministrazione",
       "name": "Amministrazione"
@@ -11,12 +15,12 @@
       "name": "Commerciale"
     },
     {
-      "id": "didattica",
-      "name": "Didattica"
-    },
-    {
       "id": "decisionale",
       "name": "Decisionale"
+    },
+    {
+      "id": "didattica",
+      "name": "Didattica"
     },
     {
       "id": "evento",
@@ -27,10 +31,514 @@
       "name": "HR"
     },
     {
-      "id": "altro",
-      "name": "Altro"
+      "id": "marketing",
+      "name": "Marketing"
     }
   ],
-  "meetings": [],
+  "meetings": [
+    {
+      "id": "1767807611088_d5d2d8e1d429b8",
+      "date": "2026-01-07",
+      "time": "14:00",
+      "title": "meeting con Stefania",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Stefania"
+      ],
+      "topics": [
+        "decisionale"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "08/01/2026",
+      "decisions": "- deciso che Cappuccio sarà solo segnalatore\n- andare dal notaio per cambiare statuto\n- per le email, Stefania userà le email già esistenti, Lucia userà amministrazione e Valentina userà valentina@ dopo cambio PW\n- per onedrive, associare Stefania a email commerciale@\n- MSF, stefania mi fa asapere quanto ci farà fatturare\n- Patronato e SAEF, stefania deve farmi sapere come muovermi\n- riunione del venerdì, ci troviamo alle 9.30, poi Stefania arriverà alle 10\n- alle 11 vedremo Lucia (partiamo da FiC) e Valentina (evento per docenti)\n-27/02 evento su GdT",
+      "tasks": [
+        {
+          "id": "1767807480273_b532c896b6e658",
+          "title": "Fare condivisioni onedrive",
+          "owner": "Renato",
+          "due": "2026-01-08",
+          "done": true,
+          "doneAt": "2026-01-14T15:50:49.981Z"
+        },
+        {
+          "id": "1767807507427_627f37e8b4c028",
+          "title": "email valentina, cambiare PW",
+          "owner": "Renato",
+          "due": "2026-01-08",
+          "done": true,
+          "doneAt": "2026-01-14T15:50:51.763Z"
+        },
+        {
+          "id": "1767807532328_5ee1d113588ba",
+          "title": "MSF, quanto ci fa fatturare nel 2026?",
+          "owner": "Stefania",
+          "due": "2026-01-09",
+          "done": true,
+          "doneAt": "2026-01-22T09:55:08.052Z"
+        },
+        {
+          "id": "1767807553612_fbd94f8e8f6e58",
+          "title": "Saef e Patronato, come dobbiamo muoverci?",
+          "owner": "Stefania",
+          "due": "2026-01-09",
+          "done": true,
+          "doneAt": "2026-02-19T09:50:11.683Z"
+        }
+      ],
+      "notes": "",
+      "updatedAt": "2026-02-19T09:50:17.000Z",
+      "createdAt": "2026-01-07T17:40:11.088Z"
+    },
+    {
+      "id": "1767807976988_3e909ec1858cc",
+      "date": "2026-01-07",
+      "time": "15:00",
+      "title": "Meeting Stefania, Matteo e Cappuccio Matteo",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Stefania",
+        "Matteo",
+        "Cappuccio Matteo"
+      ],
+      "topics": [
+        "commerciale"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "meeting 22/01 ore 14",
+      "decisions": "",
+      "tasks": [
+        {
+          "id": "1767807971764_8b80af4b165e28",
+          "title": "mandare link sito UP",
+          "owner": "Renato",
+          "due": "2026-01-08",
+          "done": true,
+          "doneAt": "2026-01-08T09:59:44.936Z"
+        }
+      ],
+      "notes": "",
+      "updatedAt": "2026-01-09T07:52:44.597Z",
+      "createdAt": "2026-01-07T17:46:16.988Z"
+    },
+    {
+      "id": "1767866375525_6467aaef040dd8",
+      "date": "2026-01-09",
+      "time": "11:00",
+      "title": "Formazione Lucia",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Lucia"
+      ],
+      "topics": [
+        "amministrazione"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "",
+      "decisions": "aprire FiC",
+      "tasks": [
+        {
+          "id": "1767955658930_f31e549d64e0d",
+          "title": "mandare accesso a FiC a Lucia",
+          "owner": "Renato",
+          "due": "2026-01-12",
+          "done": true,
+          "doneAt": "2026-01-14T15:50:43.412Z"
+        }
+      ],
+      "notes": "caricare cedolino silvia\ncaricare rimborso spese renato\ncaricare f24\nregistrare fattura arrivata\nautofatture\nsalvataggio quietanze f24",
+      "updatedAt": "2026-01-14T15:50:43.412Z",
+      "createdAt": "2026-01-08T09:59:35.525Z"
+    },
+    {
+      "id": "1767945148722_d409fa7f623e88",
+      "date": "2026-01-09",
+      "time": "13:00",
+      "title": "metting stefania matteo",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "stefania",
+        "matteo"
+      ],
+      "topics": [
+        "decisionale"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "",
+      "decisions": "",
+      "tasks": [
+        {
+          "id": "1767963633850_4d4922a09e29b",
+          "title": "mandare fattura a _MAttero",
+          "owner": "Renato",
+          "due": "2026-02-28",
+          "done": true,
+          "doneAt": "2026-01-09T13:02:02.932Z"
+        }
+      ],
+      "notes": "settimana prossima aprirò p.iva con codici ateco che non fanno parte dei codici UP.\nquantifichiamo esattamente il rimborso spese (da fatturare? no, 500 € lordi compenso, € 500 netti come rimborso spese), se va fatturato, e a chi fatturo il resto (Piazza Matteo) e con che causale (se consulenza, che genere?VEDERE CODICI ATECO)\n€ 100 per capitale sociale, faccio il bonifico con la causale \"aumento capitale sociale\"? VERSAMENTO DI 100 EURO NELLA CASSA CONTANTI, RIMANDARE CASSA A SERGIO\n€ 5000 mancanti, dopo apertura fattura (1 fatture da € 2500, PIù 2500 IN CASH Sono netti?\n\nDA STEFANIA-MATTEO\nil 31 Francesca Rinaldi (praticante commercialista, per contabilità base) Marco Premoli (contabilità, controllo gestione), Fabio Marzochi (contabilità)",
+      "updatedAt": "2026-01-09T13:02:02.933Z",
+      "createdAt": "2026-01-09T07:52:28.722Z"
+    },
+    {
+      "id": "1767952843188_47da3d910969f",
+      "date": "2026-01-09",
+      "time": "11:00",
+      "title": "formazione Valentina",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Valentina",
+        "Silvia"
+      ],
+      "topics": [
+        "marketing"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "",
+      "decisions": "",
+      "tasks": [],
+      "notes": "Social UP\nsito UP\nEvento per formazione docenti, 31/01? Facciamo noi un elenco e mandiamo email, ricordando del +1\nAprire Eventbrite",
+      "updatedAt": "2026-01-09T10:49:49.057Z",
+      "createdAt": "2026-01-09T10:00:43.188Z"
+    },
+    {
+      "id": "1768377567830_cb5f47661be7a",
+      "date": "2026-01-16",
+      "time": "11:00",
+      "title": "2026.01.16 meeting generale",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Stefania",
+        "Lucia",
+        "Valentina",
+        "Silvia"
+      ],
+      "topics": [
+        "amministrazione",
+        "didattica",
+        "evento",
+        "marketing"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "",
+      "decisions": "",
+      "tasks": [
+        {
+          "id": "1768548448191_e70bcd4d9e2b1",
+          "title": "Nuovo utente Lyber? Chi",
+          "owner": "Renato",
+          "due": "2026-01-16",
+          "done": true,
+          "doneAt": "2026-02-19T09:50:20.942Z"
+        },
+        {
+          "id": "1768548471778_093ab5eefc98c",
+          "title": "comunicazione patrono a Apiced",
+          "owner": "Renato",
+          "due": "2026-01-16",
+          "done": true,
+          "doneAt": "2026-01-22T09:55:16.353Z"
+        }
+      ],
+      "notes": "Lucia, FiC per pagamenti ricevuti, fatture ricevute; F24 R.A e contributi dipendenti; visura camerale aggiornata per Apiced.\nValentina, fatto invito evento 31/01?\nStefania, banca per pagamenti e controllo - apertura delle email quotidiane da parte di Lucia e Valentina - rapporti con consulente lavoro a Lucia - rapporti con commercialista La Rosa per adempimenti cambi a Lucia - numero di telefono fisso lyber a chi?\nTutti, file commerciale e di fatturazione; quando è il Patrono? Poi comunicarlo ad Apiced",
+      "updatedAt": "2026-02-19T09:50:20.942Z",
+      "createdAt": "2026-01-14T07:59:27.831Z"
+    },
+    {
+      "id": "1768377871374_1b7f3b49f1f03",
+      "date": "2026-01-14",
+      "time": "13:00",
+      "title": "2026.01.16 meeting UP",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Stefania",
+        "Matteo"
+      ],
+      "topics": [
+        "decisionale"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "",
+      "decisions": "",
+      "tasks": [],
+      "notes": "Materialmente, posso cominciare a delegare a Lucia le prime cose? Potrei fare in modo che consulente del lavoro scriva sempre su amministrazione@, Lucia deve leggere le email tutti i giorni.\nil 16/01 pomeriggio apro P.IVA, confermiamo €/mese 500 lordi stipendio + €/mese?\nDa Apiced, possibile sanzione per comunicazione variazioni oltre i 5 giorni a portale SIUL.\nAttività 31/01, aggiornamento\nAttività 27/02, io rimando a dopo il 31/01 ma vorrei sapere che platea ci aspettiamo.\nCommerciali, come siamo rimasti con Cappuccio e con Emy Ceravolo?\nAttività future, una attività basata sulle donne nell'imprenditoria? Poi eventualmente dei Giovani futuri imprenditori? Se conosciamo una associazione che possa formalmente essere promotrice dell'evento, potremmo chiedere patrocinio Camera commercio, Provincia, Comune?",
+      "updatedAt": "2026-01-16T07:29:49.801Z",
+      "createdAt": "2026-01-14T08:04:31.374Z"
+    },
+    {
+      "id": "1769075678845_dcfcae23972ee8",
+      "date": "2026-01-22",
+      "time": "12:30",
+      "title": "2026.01.22 meeting UP",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Stefania",
+        "Matteo"
+      ],
+      "topics": [
+        "decisionale"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "",
+      "decisions": "",
+      "tasks": [],
+      "notes": "Cappuccio, come procediamo? VUOLE CONTRATTO DA COMMERCIALE, CON PROVVIGIONI CONTINUE\nEmy, come procediamo? CAPIRE COME MUOVERSI",
+      "updatedAt": "2026-01-23T07:41:51.555Z",
+      "createdAt": "2026-01-22T09:54:38.845Z"
+    },
+    {
+      "id": "1769154257168_53e32d6b05646",
+      "date": "2026-01-23",
+      "time": "11:00",
+      "title": "2026.01.23 meeting generale",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Silvia",
+        "Stefania",
+        "Lucia",
+        "Valentina"
+      ],
+      "topics": [
+        "amministrazione",
+        "evento",
+        "marketing"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "",
+      "decisions": "",
+      "tasks": [],
+      "notes": "Stefania, registrazione attività 31/01? Per docenti non presenti e per utilizzarla come pubblicità\nValentina, creazione newsletter UP?\nLucia, vedere come fare fatture?\nAggiornamento BTL\nBrochure?\nMicrosoft Lists per gestionale commerciale?",
+      "updatedAt": "2026-01-23T07:52:43.717Z",
+      "createdAt": "2026-01-23T07:44:17.168Z"
+    },
+    {
+      "id": "1769154316665_7ec15ca77a9358",
+      "date": "2026-01-23",
+      "time": "13:00",
+      "title": "2026.01.23 meeting UP",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Stefania",
+        "Matteo"
+      ],
+      "topics": [
+        "decisionale"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "",
+      "decisions": "",
+      "tasks": [],
+      "notes": "Come ci muoviamo con Emy?\nCome ci muoviamo con Cappuccio?",
+      "updatedAt": "2026-01-23T07:45:16.665Z",
+      "createdAt": "2026-01-23T07:45:16.665Z"
+    },
+    {
+      "id": "1769670086046_43f5d65b263c08",
+      "date": "2026-01-29",
+      "time": "09:30",
+      "title": "2026.01.29 formazione Lucia e Stefania",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Lucia",
+        "Stefania"
+      ],
+      "topics": [
+        "amministrazione",
+        "commerciale"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "",
+      "decisions": "",
+      "tasks": [],
+      "notes": "Lucia: vedere file commerciale (inserimento lettere incarico, controllo tra opportunità e fatturate), fare fatture, fare pagamenti fine mese, salvare quietanze f24, autofatture, PEC\nStefania: vedere file commerciale, analisi dei clienti e dei prezzi, ordine assistenti sociali",
+      "updatedAt": "2026-01-29T07:18:00.605Z",
+      "createdAt": "2026-01-29T07:01:26.047Z"
+    },
+    {
+      "id": "1770366825552_b42174e3f2ad08",
+      "date": "2026-02-06",
+      "time": "11:00",
+      "title": "2026.02.06 meeting generale",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Silvia",
+        "Stefania",
+        "Lucia",
+        "Valentina"
+      ],
+      "topics": [
+        "amministrazione"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "",
+      "decisions": "",
+      "tasks": [],
+      "notes": "amministrazione del mese - OK\nautofatture- AUTOMATICO\nsalvare quietanze degli f24 gennaio - SALVO IO\nlyber - ATTESA DENIS\nsistemare amazon\nsistemare Paypal - FATTO\nconvenzioni/agevolazione - RIFLESSIONE SU COME ORGANIZZARSI\nvisura ad Abi servizi - ATTESA CHE CCIAA COMPLETI PRATICA\nAggiornamento BTL - SETTIMANA PROSSIMA\ninviti tramite mailchimp? Database? - ADESSO CREIAMO DATABASE, POI VALENTINA\nCRM commerciale",
+      "updatedAt": "2026-02-06T11:14:39.421Z",
+      "createdAt": "2026-02-06T08:33:45.552Z"
+    },
+    {
+      "id": "1770372786472_f3bafbfc320888",
+      "date": "2026-02-06",
+      "time": "12:30",
+      "title": "2026.02.06 meeting UP MSF",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Stefania",
+        "Matteo"
+      ],
+      "topics": [
+        "decisionale"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "",
+      "decisions": "",
+      "tasks": [],
+      "notes": "OMS, call per evento - INVITI A CALL GIà FATTI\nTEM, Matteo ha fatto introduzione - TRA OGGI E LUNEDì\nZucchelli, appuntamento 12/02 - PUNTIAMO SU UP\nSAEF, non ci penso più - OK\nP.IVA Renato, spero settimana prossima - OK\nBTL, spero settimana prossima - OK\nElena estetica, mi spiegano cosa devo dire? - MSF STA ORGANIZZANDO CORSI PER ABILITAZIONE A UTILIZZO MACCHINARI, SE è INTERESSATA A PROMUOVERLI - COSTO INDICATICO INFERIORE AI 700 € A PERSONA PREVISTI DAL MERCATO (EURO 500)\nKarolina ha dato biglietto da visita? Sì MA HA PRECISATO CHE NON ERA PER I CORSI",
+      "updatedAt": "2026-02-06T12:09:43.459Z",
+      "createdAt": "2026-02-06T10:13:06.473Z"
+    },
+    {
+      "id": "1770374526841_04eef29a57c2b",
+      "date": "2026-02-06",
+      "time": "11:00",
+      "title": "2026.02.06 meeting generale",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Silvia",
+        "Stefania",
+        "Lucia",
+        "Valentina"
+      ],
+      "topics": [
+        "amministrazione"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "",
+      "decisions": "",
+      "tasks": [],
+      "notes": "amministrazione del mese - OK\nautofatture- AUTOMATICO\nsalvare quietanze degli f24 gennaio\nlyber - ATTESA DENIS\nsistemare amazon\nsistemare Paypal - FATTO\nconvenzioni\nvisura ad Abi servizi - ATTESA CHE CCIAA COMPLETI PRATICA\nAggiornamento BTL - SETTIMANA PROSSIMA\ninviti tramite mailchimp? Database? - COMPILARE FILE EXCEL\nCRM commerciale",
+      "updatedAt": "2026-02-06T10:52:41.734Z",
+      "createdAt": "2026-02-06T10:42:06.841Z"
+    },
+    {
+      "id": "1770803022603_39d606590f60d8",
+      "date": "2026-02-12",
+      "time": "14:00",
+      "title": "2026.02.12 meeting UP MSF",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Stefania",
+        "Matteo"
+      ],
+      "topics": [
+        "decisionale"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "",
+      "decisions": "",
+      "tasks": [],
+      "notes": "Programma corsi per SAEF\nriepilogo argomenti per evento 27/2, va bene come previsto?\nper compenso amministratore e rimborso spese fisso serve verbale?\nZanelli, iscritto\nCome gestire contatti evento? Email il lunedì successivo?\nContatto con Simone Maranesi e Just Quiz",
+      "updatedAt": "2026-02-12T13:10:04.977Z",
+      "createdAt": "2026-02-11T09:43:42.603Z"
+    },
+    {
+      "id": "1771492247348_8bda07237325e",
+      "date": "2026-02-20",
+      "time": "11:00",
+      "title": "2026.02.20 UP generale",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Stefania",
+        "Lucia",
+        "Silvia",
+        "Valentina"
+      ],
+      "topics": [
+        "amministrazione",
+        "commerciale",
+        "didattica",
+        "evento",
+        "marketing"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "",
+      "decisions": "",
+      "tasks": [
+        {
+          "id": "1771576500669_c7aaa5be571c1",
+          "title": "sistemare Nexi",
+          "owner": "Lucia",
+          "due": "2026-03-02",
+          "done": false,
+          "doneAt": null
+        },
+        {
+          "id": "1771577195658_ea63468317ef6",
+          "title": "riduzione INAIL Silvia con Lamya?",
+          "owner": "Lucia",
+          "due": "2026-03-03",
+          "done": false,
+          "doneAt": null
+        },
+        {
+          "id": "1771577970791_7314cce1598728",
+          "title": "sistemata mia posizione con roberta di allinea?",
+          "owner": "Lucia",
+          "due": "2026-03-03",
+          "done": false,
+          "doneAt": null
+        },
+        {
+          "id": "1771581194438_441138c9400f98",
+          "title": "btl, chiamata assistenza?",
+          "owner": "Lucia",
+          "due": "2026-03-03",
+          "done": false,
+          "doneAt": null
+        }
+      ],
+      "notes": "Aggiornamento evento 27/02, iscritti e slide\nAmministrazione, creare altra utenza banca\nAmministrazione, fare fatture\nAmministrazione/commerciale, mostrare gestionale\nDidattiva, progetto per SAEF limitato e per MSF esteso\nDidattica, attività pre estive\nDidattica, corsi autunnali",
+      "updatedAt": "2026-02-20T09:53:15.942Z",
+      "createdAt": "2026-02-19T09:10:47.348Z"
+    },
+    {
+      "id": "1771492363720_6dcd877faea0d",
+      "date": "2026-02-20",
+      "time": "12:30",
+      "title": "2026.02.20 UP MSF",
+      "place": "",
+      "project": "",
+      "attendees": [
+        "Stefania",
+        "Matteo"
+      ],
+      "topics": [
+        "decisionale"
+      ],
+      "followUpStatus": "da_inviare",
+      "nextStep": "",
+      "decisions": "",
+      "tasks": [],
+      "notes": "bilancio 2025, se mancherà qualcosa possiamo fare fattura a Piazza che poi detraiamo dai miei compensi?\nAggiornamento commerciale e economico\nAttività 27/02\nAttività pre estive e corsi post estivi, occorre prima definire come vanno venduti",
+      "updatedAt": "2026-02-19T09:12:43.720Z",
+      "createdAt": "2026-02-19T09:12:43.720Z"
+    }
+  ],
   "meta": {}
 }
